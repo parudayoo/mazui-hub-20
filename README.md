@@ -6,5 +6,5 @@ https://mazui.cc
 join in 100+ scripts!!
 https://discord.gg/pXkWn5c5Vq
 # feature 
-T key - Tween for gag farm goal
+T key - Tween for gag farm goal　　
 auto farm toggle - start auto farm the hunt 20 quests
